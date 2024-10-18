@@ -1,0 +1,16 @@
+GET http://localhost:4000/
+
+###
+GET http://localhost:4000/date
+
+
+###
+GET http://localhost:4000/index
+
+
+###
+Get http://localhost:4000/students/
+
+
+###
+GET http://localhost:4000/students/1/
